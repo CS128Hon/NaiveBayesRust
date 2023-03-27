@@ -1,6 +1,6 @@
 # NaiveBayesRust
 
-Group Name: H2OandO2
+# Group Name: H2OandO2
 
 Member names:
 
