@@ -32,7 +32,7 @@ Checkpoint 1:
 Build a basic tokenized model of our classifier so that it is ready to be trained on the Spambase Dataset.
 
 Checkpoint 2:
-Train the model on our dataset so work towards the prediction and honing methods.
+Train the model on our dataset and work towards the prediction and honing methods.
 
 
 References:
