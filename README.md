@@ -2,12 +2,14 @@
 
 Group Name: H2OandO2
 
-Member names: 
+Member names:
+
 Hanshul Bahl    Net ID: hbahl2 
 
 Arshiya Gupta   Netid: arshiya5 
 
-Sharayu Janga  	Net id: sjanga2			
+Sharayu Janga  	Net id: sjanga2	
+
 
 Project Introduction:
 
